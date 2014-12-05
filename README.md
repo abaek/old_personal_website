@@ -1,3 +1,3 @@
-abaek.github.io
+My Peronsal Website
 ===============
-[My personal website](https://abaek.github.io)
+Can be found [here](https://abaek.github.io).
